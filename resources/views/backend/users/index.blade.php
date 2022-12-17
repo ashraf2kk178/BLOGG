@@ -154,7 +154,7 @@
                           <th>name</th>
                           <th>email</th>
                           <th>password</th>
-                          <th colspan="2" width="40%">Action</th>
+                          <th colspan="2" width="15%">Action</th>
                           
                                         </tr>
                                     </thead>
