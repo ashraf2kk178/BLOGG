@@ -81,8 +81,9 @@
                                     </a>
                                 @endif
                             </div>
-                                <center>
-                     <h3> <a href="{{url('auth/google/redirect')}}">Login With Google</a></h3>
+                                     <center>
+
+                     <a href="{{url('auth/google/redirect')}}"><img src="{{ asset('imgs/google.png')}}"></a>
                                 </center>
                         </div>
                     </form>
